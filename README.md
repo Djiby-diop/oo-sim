@@ -1,6 +1,13 @@
-## oo-sim (Operating Organism Simulator)
+# oo-sim — Operating Organism Simulation Layer
 
-This directory is for host side C simulations of an environment for the Operating Organism (OO).
+> **Couche 3 — Simulation Layer** | [oo-system architecture](https://github.com/Djiby-diop/oo-system)
+
+Part of the [Operating Organism](https://github.com/Djiby-diop/oo-system) ecosystem.
+
+Bac à sable pour tester les comportements OO sans hardware réel.
+Objectif Phase 2 : premier monde simulé (agents + politique D+).
+
+
 The goal is to have a small, controllable "world" where the OO logic can be exercised without
 needing real hardware, UEFI or a full operating system.
 
