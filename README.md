@@ -1,11 +1,11 @@
 # oo-sim — Operating Organism Simulation Layer
 
-> **Couche 3 — Simulation Layer** | [oo-system architecture](https://github.com/Djiby-diop/oo-system)
+> **Layer 3 — Simulation Layer** | [oo-system architecture](https://github.com/Djiby-diop/oo-system)
 
 Part of the [Operating Organism](https://github.com/Djiby-diop/oo-system) ecosystem.
 
-Bac à sable pour tester les comportements OO sans hardware réel.
-Objectif Phase 2 : premier monde simulé (agents + politique D+).
+Sandbox for testing OO behavior without real hardware.
+Phase 2 objective: first simulated world (agents + D+ policy).
 
 
 The goal is to have a small, controllable "world" where the OO logic can be exercised without
